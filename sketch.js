@@ -11,29 +11,29 @@ function preload(){
     // audio = createAudio("Katy Perry - Firework (Acoustic Session) REMASTERED.mp3");
     audio = createAudio("Carly Rae Jepsen - Call Me Maybe (Audio) [TubeRipper.com].m4a");
 
-imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/SCREENPRINT_Shirt_resized_ujjqp1.png')
- imgs[1] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/voldemort_shirt_resized_ytqhl7.png') 
-    imgs[2]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/OSKI_BIRTHDAY_SHIRT3d_resized_or4zka.png')
- imgs[3] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/DemnaShirt_resized_ko0nu6.png') 
-  imgs[4]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773930/carolshirt3d_resized_xs8lip.png')
-  imgs[5]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/bottledloveshirt3d_flsb0r.png')
-  imgs[6] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665884116/NOTEBOOKSHIRTTEXT_w3jjsn.jpg')
-    imgs[7] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665884680/yourCardDeclined_ShirtMockup_vnw9pc.png')    
-  imgs[8] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1665888592/OSKIWEDDING_SHIRT_tz6okn.png')
-    imgs[9] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665948981/oskiweddinground2_egydil.png')
-      imgs[10] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665949784/toadpacshirt_3dthing_j0satg.png')
+imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/SCREENPRINT_Shirt_resized_ujjqp1_xvv7uw.png')
+ imgs[1] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/voldemort_remix_rbg0dm.png') 
+    imgs[11]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/wedding_remix_cil64x.png')
+ imgs[3] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/toadpac_remix_z1pwgt.png') 
+  imgs[4]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/balenciaga_remix_gtogbl.png')
+  imgs[5]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/stars_remix_dv9syk.png')
+  imgs[6] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/Crying_remix_eiflfh.png')
+    imgs[7] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/oskiwedding_remix_uso0bv.png')    
+  imgs[8] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/oskithing_remix_qcvxqq.png')
+    imgs[9] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1669860888/oski_remix_lgfqfq.png')
+      imgs[10] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1669860888/house_remix_oa7zwg.png')
 
-        imgs[11] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665957356/housedrawing_3dShirt_nf3yob.png')
+        imgs[2] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1669860890/notebook_remix_cusqwk.png')
   
-        imgs[12] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665957205/mountainshirt_3d_kmlazm.png')
+        imgs[12] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1669860888/mountain_remix_r5bypw.png')
             
-  imgs[13] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665978926/oski_peeing_shirt_xtvoe3.png')
+  imgs[13] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1669862781/ALCHOHOL_REMIX_uyx6d3.png')
     
-  imgs[14] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1666047243/thisisstupidshirt_wltht1.png')  
+//   imgs[14] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1666047243/thisisstupidshirt_wltht1.png')  
   
-//   imgs[15] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665960566/MXMTOON_Shirt_iqmgow.png')
+// //   imgs[15] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665960566/MXMTOON_Shirt_iqmgow.png')
         
-  imgs[15] = loadImage(' https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/kevin-hart-wins-halloween-2019-by-dressing-up-as-frenemy-dwayne-johnson-the-rock-is-anything-but-impressed.jpg')
+//   imgs[15] = loadImage(' https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/kevin-hart-wins-halloween-2019-by-dressing-up-as-frenemy-dwayne-johnson-the-rock-is-anything-but-impressed.jpg')
   
   
   mod = loadModel('Finished_Voldemort_3dthing.obj')
@@ -46,23 +46,23 @@ function setup() {
   shirt = new Shirt(imgs[0], mod, -100, -100, 0, theta)
     wg = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1669760216/wordstuff2_iqvi3a.png');
   
-  fg = loadImage ('https://archive.org/download/spongedance-hd/spongedance-4.gif')
+  fg = loadImage ('https://thumbs.gfycat.com/ThirdInsignificantBedlingtonterrier-size_restricted.gif')
   
-  bg = loadImage ('https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif')
+  bg = loadImage ('https://media4.giphy.com/media/cQ1vOEK0hgTW8/giphy.gif?cid=ecf05e474ujmehtxgsik1dappolvm4eus4tsun40zbothxx6&rid=giphy.gif&ct=g')
  
-    money = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1669858524/sendmemoney_schfml.png')
+    money = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1669862646/remixWORDS_n7fnmh.png')
   
       venmo = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1669857644/MYVENMO_bkfuco.jpg')
 }
 
 function draw() {
-  background('rgb(211,246,0)'); 
+  background('rgb(0,0,0)'); 
   
     push();
   noStroke();
-translate(30, 20, -3000);
+translate(30, 20, -1300);
   texture(bg);
-  plane(20000, 20000);
+  plane(10000, 10000);
   pop();  
   
   push();
