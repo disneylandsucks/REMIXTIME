@@ -9,7 +9,7 @@ let clicked = false
 
 function preload(){
     // audio = createAudio("Katy Perry - Firework (Acoustic Session) REMASTERED.mp3");
-    audio = createAudio("Carly Rae Jepsen - Call Me Maybe (Audio) [TubeRipper.com].m4a");
+    audio = createAudio("I_LOVE_IT.mp4");
 
 imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/SCREENPRINT_Shirt_resized_ujjqp1_xvv7uw.png')
  imgs[1] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1669860889/voldemort_remix_rbg0dm.png') 
