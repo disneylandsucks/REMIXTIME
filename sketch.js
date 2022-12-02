@@ -29,11 +29,11 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16698
             
   imgs[13] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1669862781/ALCHOHOL_REMIX_uyx6d3.png')
     
-//   imgs[14] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1666047243/thisisstupidshirt_wltht1.png')  
+  imgs[14] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1670010577/Chaeyoung_Shirt_Remix_cutbrh.png')  
   
-// //   imgs[15] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665960566/MXMTOON_Shirt_iqmgow.png')
+  imgs[15] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1670010587/musuem_shirt_byaei3.png')
         
-//   imgs[15] = loadImage(' https://www.pinkvilla.com/files/styles/amp_metadata_content_image/public/kevin-hart-wins-halloween-2019-by-dressing-up-as-frenemy-dwayne-johnson-the-rock-is-anything-but-impressed.jpg')
+  imgs[16] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1670011284/Joji_Tee_Remix_bjppvn.png')
   
   
   mod = loadModel('Finished_Voldemort_3dthing.obj')
