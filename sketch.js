@@ -35,7 +35,10 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16698
         
   imgs[16] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1670011284/Joji_Tee_Remix_bjppvn.png')
   
-  
+    imgs[17] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1670012444/Savage_Gasp_Remix_znwjky.png')
+
+    
+   
   mod = loadModel('Finished_Voldemort_3dthing.obj')
 }
 
