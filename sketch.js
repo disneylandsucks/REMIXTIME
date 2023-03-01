@@ -68,12 +68,12 @@ translate(30, 20, -1300);
   plane(10000, 10000);
   pop();  
   
-  push();
-  noStroke()
-    button = createButton('I want this Shirt');
-  button.position(1300, 650);
-  button.mousePressed(changeBG);
-  pop();
+//   push();
+//   noStroke()
+//     button = createButton('I want this Shirt');
+//   button.position(1300, 650);
+//   button.mousePressed(changeBG);
+//   pop();
   
     push();
   noStroke();
