@@ -35,7 +35,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16698
         
   imgs[16] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1670011284/Joji_Tee_Remix_bjppvn.png')
   
-    imgs[17] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1670012444/Savage_Gasp_Remix_znwjky.png')
+    imgs[17] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356470/Remix_7_ba704w.png')
     
         imgs[18] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356122/Remix_2_air2d9.png')
 
