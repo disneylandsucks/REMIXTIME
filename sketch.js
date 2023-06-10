@@ -43,7 +43,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16698
         imgs[19] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356123/remix_3_b0auya.png')
 
     
-        imgs[20] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356123/remix_4_tmjwtl.png')
+        imgs[20] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686357316/RemixRetry_ilaj2o.png')
 
     
         imgs[21] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356123/Remix_5_qaz0r6.png')
