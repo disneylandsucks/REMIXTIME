@@ -52,6 +52,15 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16698
         imgs[22] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356123/Remix_1_zgs5ny.png')
     
             imgs[23] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356164/Remix_6_angcnc.png')
+    
+                imgs[24] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356785/Remix_10_wopxrb.png')
+    
+                imgs[25] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356786/Remix_8_aogttc.png')
+
+    
+                imgs[26] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356786/Remix_9_oxbgyn.png')
+
+
 
 
 
