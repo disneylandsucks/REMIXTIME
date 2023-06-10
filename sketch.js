@@ -60,6 +60,8 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16698
     
                 imgs[26] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356786/Remix_9_oxbgyn.png')
 
+                    imgs[27] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686360541/remix_11_zkhemp.png')
+
 
 
 
