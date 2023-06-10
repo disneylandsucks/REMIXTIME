@@ -36,6 +36,24 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16698
   imgs[16] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1670011284/Joji_Tee_Remix_bjppvn.png')
   
     imgs[17] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1670012444/Savage_Gasp_Remix_znwjky.png')
+    
+        imgs[18] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356122/Remix_2_air2d9.png')
+
+    
+        imgs[19] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356123/remix_3_b0auya.png')
+
+    
+        imgs[20] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356123/remix_4_tmjwtl.png')
+
+    
+        imgs[21] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356123/Remix_5_qaz0r6.png')
+
+    
+        imgs[22] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356123/Remix_1_zgs5ny.png')
+    
+            imgs[23] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686356164/Remix_6_angcnc.png')
+
+
 
     
    
